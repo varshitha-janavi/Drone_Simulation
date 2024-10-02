@@ -12,3 +12,7 @@ Helical Flight Path: The drone follows a defined helical path characterized by a
 3D Visualization: The simulation utilizes a 3D plot to represent the drone's position in space, with labeled axes for clarity.
 
 Animation: The animation is rendered in real-time, showcasing the drone's continuous movement and trajectory.
+
+
+https://github.com/user-attachments/assets/e9281418-34d0-468a-8035-f4719edcef4f
+
