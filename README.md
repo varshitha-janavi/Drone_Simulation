@@ -5,6 +5,10 @@ This project involves creating a 3D simulation of a drone-like object following 
 
 **Key Features**
 Drone Model: The Drone class simulates a drone with properties such as mass, drag coefficient, thrust, and position. The class includes methods to update the drone's position based on time.
+
+
 Helical Flight Path: The drone follows a defined helical path characterized by a specific radius and vertical speed, giving it a realistic flight pattern.
+
 3D Visualization: The simulation utilizes a 3D plot to represent the drone's position in space, with labeled axes for clarity.
+
 Animation: The animation is rendered in real-time, showcasing the drone's continuous movement and trajectory.
